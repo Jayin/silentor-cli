@@ -1,0 +1,3 @@
+[submodule "silentor"]
+	path = silentor
+	url = https://github.com/Jayin/silentor.git
